@@ -117,6 +117,7 @@ Select ' Total de Productos' as nombreMedida , COUNT(Distinct product_key) as va
 Union All
 Select ' Total de Cliientes' as nombreMedida , COUNT(Distinct customer_key) as valorMedida  from gold.customers
 
+![Top Paying Roles](docs/reporte.png)
 -- **************************************************************************************
 
 -- Encontrar el total de clientes por pais
