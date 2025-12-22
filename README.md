@@ -13,7 +13,7 @@ temporal y cálculos de indicadores clave de desempeño (KPIs).
   use DataAnalytics
  ```
 
-### -- Explorar todos las tablas en la base de datos
+ -- Explorar todos las tablas en la base de datos
 ```sql
 Select * From INFORMATION_SCHEMA.TABLES
 
