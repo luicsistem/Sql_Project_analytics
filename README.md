@@ -1,4 +1,12 @@
 ## Proyecto SQL EDA
+Este proyecto realiza un Análisis Exploratorio de Datos (EDA) 
+sobre la base de datos DataAnalytics, un conjunto de datos relacional 
+para el análisis de ventas, clientes, productos y operaciones comerciales.
+El objetivo del EDA es comprender la estructura de los datos, evaluar 
+su calidad y explorar patrones relevantes mediante consultas SQL. 
+Se aplican técnicas como agregaciones, joins entre tablas, análisis 
+temporal y cálculos de indicadores clave de desempeño (KPIs).
+
 
 🔍 SQL queries
   ```sql 
