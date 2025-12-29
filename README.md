@@ -250,3 +250,21 @@ Group By c.customer_key, c.first_name, c.last_name
 Order By totalPedidos
 
 ```
+
+### 📊 Visualizaciones sugeridas
+
+Con los resultados puedes crear dashboards para:
+- Ventas por categoría y país
+- Ranking de clientes y productos
+- Tendencias temporales de ingresos
+- Distribución geográfica de ventas
+
+📌 Recomendación: usa Power BI o Tableau con conexión directa a SQL Server.
+
+-### 🧾 Conclusiones
+
+✅ Este análisis exploratorio permite:
+- Entender la estructura de la base de datos
+- Detectar relaciones entre ventas, productos y clientes
+- Calcular KPIs relevantes
+- Servir de base para reporting y analítica avanzada
