@@ -7,8 +7,7 @@ El objetivo del EDA es comprender la estructura de los datos, evaluar
 su calidad y explorar patrones relevantes mediante consultas SQL. 
 Se aplican técnicas como:
 
-### Agregaciones y cálculos de métricas
-
+ - Agregaciones y cálculos de métricas
 - Joins entre tablas
 - Análisis temporal
 - Identificación de KPIs (Indicadores Clave de Desempeño)
