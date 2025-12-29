@@ -1,5 +1,5 @@
 ## Proyecto SQL EDA -  Exploratory Data Analysis con SQL
-🧠 # Descripción general
+# 🧠  Descripción general
 Este proyecto realiza un Análisis Exploratorio de Datos (EDA) 
 sobre la base de datos DataAnalytics, un conjunto de datos relacional 
 para el análisis de ventas, clientes, productos y operaciones comerciales.
