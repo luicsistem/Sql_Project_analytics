@@ -261,7 +261,7 @@ Con los resultados puedes crear dashboards para:
 
 📌 Recomendación: usa Power BI o Tableau con conexión directa a SQL Server.
 
--### 🧾 Conclusiones
+### 🧾 Conclusiones
 
 ✅ Este análisis exploratorio permite:
 - Entender la estructura de la base de datos
